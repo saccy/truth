@@ -1,4 +1,4 @@
-# Scientifically compares the value of jimmys current 1080ti to that of a new 4090
+# A poor excuse for comparing values of jimmys current 1080ti to that of a new garbage giant and power hungry 4090
 
 class GPU {
     [string]$Name
